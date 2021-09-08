@@ -3,7 +3,7 @@ import LinkNewTab from "./common/LinkNewTab";
 export default function LeftBar() {
   return (
     <nav className="transition-all duration-700 absolute lg:bottom-8 lg:left-8 bottom-4 left-4">
-      <ul className="transition-all duration-700 md:text-base md:leading-8 sm:text-sm sm:leading-7 text-xs leading-6 text-gray-400 font-mono tracking-widest leading-loose">
+      <ul className="transition-all duration-700 md:text-base md:leading-8 sm:text-sm sm:leading-7 text-xs leading-6 text-gray-400 font-mono tracking-widest">
         <li className="hover:text-white">
           <LinkNewTab href="https://www.linkedin.com/in/naufalhilmy/">
             LinkedIn

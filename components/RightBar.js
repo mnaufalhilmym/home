@@ -14,11 +14,13 @@ export default function RightBar() {
         </li>
         <li className="hover:text-white">
           <LinkNewTab href="https://github.com/mnaufalhilmym">
-            Portofolio
+            Portfolio
           </LinkNewTab>
         </li>
         <li className="hover:text-white">
-          <LinkNewTab href="https://blog.hilmy.dev/about.html">About</LinkNewTab>
+          <LinkNewTab href="https://blog.hilmy.dev/about.html">
+            About
+          </LinkNewTab>
         </li>
         <li className="absolute right-0 bottom-0 hover:text-white">
           <LinkNewTab href="mailto:naufal@hilmy.dev">Contact</LinkNewTab>

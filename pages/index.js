@@ -49,7 +49,7 @@ export default function Home() {
               <p>an ardent Linux user</p>
             </span>
           </div>
-          <h4>Let's get in touch 😉</h4>
+          <h4 className="transition-all duration-700">Let's get in touch 😉</h4>
         </div>
       </main>
 
